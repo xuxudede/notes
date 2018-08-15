@@ -56,7 +56,7 @@ mysql中的字段名最好用大写！
 
 ###**3、启动sqoop2-server**
     #/home/hadoop/sqoop-1.99.6-bin-hadoop200/bin/sqoop2-server start
-    如果遇到疑似server端的问题，可以先stop，然后再start，再重试。
+    如果遇到疑似server端的问题，可以先stop，然后再start，再重试
 ###**4、进入客户端shell**
     #/home/hadoop/sqoop-1.99.6-bin-hadoop200/bin/sqoop2-shell
 ###**5、为客户端配置服务器**
